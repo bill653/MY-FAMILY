@@ -8,7 +8,7 @@
 
 <basefont face="Arial, Verdana" size="4" color="black">
 
-<H1 ALIGN="CENTER">WELCOME TO MY FAMILY WORLD</H1>
+<H1 ALIGN="CENTER">MY LOVED ONES</H1>
 
 <P ALIGN="LEFT">
 My family is small but <B>strong</B> and <I>united</I>.<BR>
